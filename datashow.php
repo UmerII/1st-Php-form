@@ -15,7 +15,7 @@ include "config.php";
 </head>
 <body>
 
-<table>
+<table class="table">
     <thead>
         <tr>
             <th>id</th>
